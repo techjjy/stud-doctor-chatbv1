@@ -1,0 +1,50 @@
+Virtual Patient Case
+Fourth-Year Medical Student Clinical Reasoning Exercise
+STUDENT-FACING DOCUMENT — Diagnosis intentionally withheld
+
+Chief Complaint
+"My baby isn't feeding well and seems really weak and floppy."
+Identifying Information
+Patient: Female infant, 6 weeks old
+Informant: Mother, reliable historian
+Setting: Pediatric Emergency Department
+History of Present Illness
+A 6-week-old female infant is brought to the emergency department by her mother for 3 days of poor feeding and "floppiness." The mother reports the infant previously fed well (breast milk, every 2–3 hours) but over the past 3 days has been taking smaller volumes, tires easily at the breast, and on the day of presentation refused two consecutive feeds. The mother also notes the infant's cry has sounded "weaker" and more hoarse than usual, and that the baby has not had a bowel movement in 4 days (previously stooling 1–2 times daily). She denies fever, vomiting, diarrhea, rhinorrhea, or cough. She reports the infant's eyelids have looked "droopy" since yesterday and that the baby seems less able to hold her head up when lifted from the crib — the mother describes needing to support the head "more than before." No rash, no known sick contacts, no recent travel. No trauma witnessed; infant is always supervised and has not been left with anyone other than the mother, father, and maternal grandmother in the past week.
+1. OB/GYN History
+Mother is a 29-year-old G2P2. Pregnancy was uncomplicated, with routine prenatal care beginning at 8 weeks gestation and all recommended prenatal visits attended. Prenatal labs unremarkable, including negative GBS screen at 36 weeks. No gestational diabetes, no hypertensive disorders of pregnancy. Delivery was a spontaneous vaginal delivery at 39±6 weeks gestation after a normal labor course; rupture of membranes occurred 6 hours prior to delivery with clear fluid. APGAR scores were 9 and 9 at 1 and 5 minutes. Birth weight 3,410 g (75th percentile). No NICU admission; infant roomed-in with mother and was discharged home on schedule at 48 hours of life. No maternal fever during labor, no chorioamnionitis, no antibiotics administered intrapartum.
+2. Preventive Healthcare
+Infant has attended both scheduled well-child visits (2-week and 1-month) with her pediatrician. Growth has tracked appropriately along the 60–75th percentile for weight and length. Newborn metabolic screen (heel-stick) was normal. Newborn hearing screen passed bilaterally. Critical congenital heart disease pulse oximetry screening was normal prior to nursery discharge.
+3. Immunization
+Hepatitis B vaccine dose 1 administered at birth. No additional immunizations given yet, as the infant has not yet reached the 2-month well-child visit where the first round of the standard series (DTaP, IPV, Hib, PCV13, rotavirus) would be due. No vaccines administered in the days preceding symptom onset.
+4. Family History
+No family history of neuromuscular disease, myasthenia gravis, spinal muscular atrophy, or other congenital neurologic disorders. No family history of metabolic or mitochondrial disease. Mother and father both in good health. One older sibling (age 3) healthy, met all developmental milestones normally. No consanguinity. No family history of sudden infant death.
+5. Current Medical History
+Term infant, previously healthy, now with 3-day history of progressive poor feeding, weak cry, new-onset bilateral ptosis, decreased spontaneous movement, and reduced head control. No fever reported at home (afebrile per mother's report; not formally measured until arrival). No respiratory distress noted by mother, though she comments the baby's breathing "looks different" — she cannot elaborate further.
+6. Allergies
+No known drug, food, or environmental allergies.
+7. Exposure History
+Lives at home with both parents and a 3-year-old sibling in a single-family house built in the 1990s (low concern for lead exposure; home was renovated in the past 2 years with no known lead paint disturbance). No new carpet or furniture. Water source is municipal, not well water. No pets in the home. No recent construction or excavation near the home. Family reports no recent travel outside the state. Sibling attends a small in-home daycare 3 days per week; no known illness among daycare contacts. Mother mentions that the infant's maternal grandmother has been helping with childcare and "loves to give the baby a little taste of things," and recalls the grandmother mentioning she dipped a pacifier in honey once "to help her sleep" sometime in the past two weeks, though the mother is not certain of the exact amount or how many times this occurred.
+8. Behavior
+Prior to this illness, infant was described as alert, made eye contact, and had a strong, robust cry. Over the past 3 days, mother notes the infant is "more sleepy than usual," is harder to rouse for feeds, and seems to be tracking and engaging less than before. No irritability or inconsolable crying episodes.
+9. Family Social History
+Mother works part-time from home; father works full-time outside the home. No smokers in the household. No substance use reported by either parent. Stable housing, adequate social support, no reported food insecurity. No involvement with child protective services, no prior concerns raised by pediatrician regarding home safety or caregiving.
+10. Habits
+Exclusively breastfed since birth; no formula supplementation. No solid foods introduced (appropriate for age). Sleeps supine in own crib per safe-sleep guidance. No swaddling concerns reported.
+11. Past Medical History
+Full-term, uncomplicated newborn course as above. No hospitalizations since nursery discharge. No prior surgeries. No chronic conditions.
+12. Previous Important Tests
+Newborn metabolic screen: normal. Newborn hearing screen: passed bilaterally. Critical congenital heart disease screen: normal. No prior imaging, labs, or specialist evaluations have been performed since birth.
+
+Physical Examination
+Vitals: T 37.1°C (98.8°F), HR 148, RR 32, BP 78/46, SpO? 96% on room air, Weight 4.9 kg (tracking prior percentile)
+General: Alert but hypotonic-appearing infant, mildly decreased spontaneous movement, non-toxic but sluggish
+HEENT: Bilateral mild ptosis noted; pupils equal, round, sluggishly reactive to light bilaterally; no nystagmus; poor suck reflex on exam; weak gag reflex; excessive drooling noted
+Neck: Supple, no lymphadenopathy, no nuchal rigidity
+Cardiovascular: Regular rate and rhythm, no murmur, normal perfusion, cap refill <2 sec
+Respiratory: Mild tachypnea, shallow breaths, good air entry bilaterally, no wheeze/crackles, no retractions at rest
+Abdomen: Soft, non-distended, non-tender, hypoactive bowel sounds, no palpable masses, no hepatosplenomegaly
+Skin: No rash, no jaundice, no petechiae, normal turgor
+Neurologic: Diffusely decreased muscle tone ("floppy" on horizontal and vertical suspension), symmetrically decreased deep tendon reflexes throughout, weak cry, descending pattern of weakness with cranial nerve involvement (ptosis, poor suck/gag) preceding limb weakness; infant is alert and appears to track visually despite weakness — sensorium is preserved
+
+End of Patient Document
+This concludes the available clinical information. Proceed to the accompanying quiz to work through your differential diagnosis, recommended diagnostic workup, management plan, and final diagnosis.
